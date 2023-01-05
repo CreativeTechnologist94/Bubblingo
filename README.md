@@ -3,7 +3,6 @@
 VR Language Learning App - Pearson Collab - Week 03 of XR Bootcamp Prototyping
 
 [Prototype Demo Video] (https://vimeo.com/786439621)
-https://user-images.githubusercontent.com/76792139/210748063-c2a433a1-35cf-4b3c-8748-85b0e24310f0.mp4
 
 ## Overview
 Bubblingo is a VR language-learning app that introduces words and phrases from various contexts in the target language with a simple, fun and fast-paced interface. It uses the “Drill and Kill” learning philosophy that helps strengthen the learner’s essential vocabulary.
