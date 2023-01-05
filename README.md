@@ -27,6 +27,13 @@ The inspiration to focus on a visually appealing and intuitive mini-games format
 - The performance evalauation for accuracy and timing has not been implemented yet.
 - The code has not been refactored to manage the randomization of phrases and methods during gameplay as depicted in the demo video.
 
+##Note 
+The following purchased packages will be needed to run the Unity project-
+- MK Toon - Stylized Shader - https://assetstore.unity.com/packages/vfx/shaders/mk-toon-stylized-shader-178415
+- Feel - https://assetstore.unity.com/packages/tools/particles-effects/feel-183370
+- Low Poly Tropical City - https://assetstore.unity.com/packages/3d/environments/urban/low-poly-tropical-city-226154
+- Simple Hands - https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297
+
 Project Case Study link - https://www.asthakapila.com/work/bubblingo
 
 
